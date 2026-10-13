@@ -1,0 +1,34 @@
+{
+  "accounts": [
+    {
+      "brand": "Emco CZ",
+      "username": "emco.cz",
+      "type": "own"
+    },
+    {
+      "brand": "Emco SK",
+      "username": "",
+      "type": "own"
+    },
+    {
+      "brand": "Mixit",
+      "username": "",
+      "type": "competitor"
+    },
+    {
+      "brand": "GymBeam",
+      "username": "",
+      "type": "competitor"
+    },
+    {
+      "brand": "Vilgain",
+      "username": "",
+      "type": "competitor"
+    },
+    {
+      "brand": "Bonavita",
+      "username": "",
+      "type": "competitor"
+    }
+  ]
+}
